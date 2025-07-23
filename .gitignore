@@ -3,3 +3,7 @@ release/
 artifacts/
 /dddd
 *.secret.*
+
+# Nix artifacts
+/result
+/.direnv
