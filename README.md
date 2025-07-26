@@ -1,6 +1,6 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/tcarrio/dddd)](https://goreportcard.com/report/github.com/tcarrio/dddd) [![builds.sr.ht status](https://builds.sr.ht/~tcarrio/dddd/commits/.build.yml.svg)](https://builds.sr.ht/~tcarrio/dddd/commits/.build.yml?)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tcarrio/DuckDuckDynDNS)](https://goreportcard.com/report/github.com/tcarrio/DuckDuckDynDNS) [![builds.sr.ht status](https://builds.sr.ht/~tcarrio/dddd/commits/.build.yml.svg)](https://builds.sr.ht/~tcarrio/dddd/commits/.build.yml?)
 
-# dddd
+# DuckDuckDynDNS
 
 Self-hostable DynDNS Alternative
 
